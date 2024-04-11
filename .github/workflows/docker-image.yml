@@ -27,4 +27,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: ckalsdn32@gmail.com/nodejs-github-action:${{ env.CURRENT_TIME }}
+        tags: 2minggul/nodejs-github-action:${{ env.CURRENT_TIME }}
